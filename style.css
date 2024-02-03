@@ -517,3 +517,9 @@ html, body {
     border-style: none;
     cursor: pointer;
 }
+#footer {
+    background: white;
+    height: 50px;
+    text-align: center;
+    padding: 10px;
+}
